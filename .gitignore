@@ -1,7 +1,9 @@
 *
-drop-in/
 
 
 !*.md
 !*/
 !.gitignore
+
+drop-in/
+
